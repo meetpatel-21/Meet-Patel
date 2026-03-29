@@ -23,8 +23,12 @@ I am a first-year B.Tech student at VIT Bhopal University specializing AIML in B
 - Aiming to build a comprehensive portfolio of AI-driven applications over the next four years.
 
 🌐 Connect with Me
+## linkedin
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1dd2d29-3027-422e-854e-66be49fba2f9" />
 
+---
+
+##  kaggle
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/083af0a1-2460-4354-9382-832e171d67d1" />
 
 
